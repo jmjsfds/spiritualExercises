@@ -12,339 +12,231 @@
 
                         // Children of sNode10300000 (The<br>Word:)
 
-                        var sNode103000000 = {
-                            id: "s103000000",
-                            name: "In The Beginning<br>Was The Word -",
-                            data: {"width":"130","height":"39","img":"jn.9"},
-                            children: []
-                        };
+               
+                    // Children of sNode1030000 (The<br>Word:)
 
-                        var sNode103000001 = {
-                            id: "s103000001",
-                            name: "And The Word<br>Was With God -",
-                            data: {"width":"120","height":"39","img":"jn.9"},
-                            children: []
-                        };
-
-                        var sNode103000002 = {
-                            id: "s103000002",
-                            name: "And The Word<br>Was God -",
-                            data: {"width":"110","height":"39","img":"jn.9"},
-                            children: []
-                        };
-
-                        var sNode103000003 = {
-                            id: "s103000003",
-                            name: "He Was In The<br>Beginning With God",
-                            data: {"width":"155","height":"39","img":"jn.9"},
-                            children: []
-                        };
-                    
                     var sNode10300000 = {
                         id: "s10300000",
-                        name: "The<br>Word:",
-                        data:{"width":"55","height":"39","img":"jn.9"},
-                        children: [sNode103000000, sNode103000001, sNode103000002,sNode103000003]           
+                        name: "In The Beginning<br>Was The Word -",
+                        data: {"width":"130","height":"39","img":"jn.9"},
+                        children: []
                     };
 
-                        // Children of sNode10300001 (Creation:)
-
-                        var sNode103000010 = {
-                            id: "s103000010",
-                            name: "All Things<br>Came To Be<br>Through Him -",
-                            data: {"width":"115","height":"57","img":"jn.10"},
-                            children: []
-                        };
-
-                        var sNode103000011 = {
-                            id: "s103000011",
-                            name: "Without Him<br>Nothing<br>Came To Be",
-                            data: {"width":"100","height":"57","img":"jn.10"},
-                            children: []
-                        };
-                    
                     var sNode10300001 = {
                         id: "s10300001",
-                        name: "Creation:",
-                        data:{"width":"75","height":"22","img":"jn.10"},
-                        children: [sNode103000010, sNode103000011]          
+                        name: "And The Word<br>Was With God -",
+                        data: {"width":"120","height":"39","img":"jn.9"},
+                        children: []
                     };
 
-                        // Children of sNode10300002 (Life &<br>Light)
-
-                        var sNode103000020 = {
-                            id: "s103000020",
-                            name: "What Came To Be<br>Through Him<br>Was Life -",
-                            data: {"width":"135","height":"57","img":"jn.12"},
-                            children: []
-                        };
-
-                        var sNode103000021 = {
-                            id: "s103000021",
-                            name: "And This Life Was<br>The Light Of<br>The Human Race -",
-                            data: {"width":"145","height":"57","img":"jn.12"},
-                            children: []
-                        };
-
-                        var sNode103000022 = {
-                            id: "s103000022",
-                            name: "The Light<br>Shines In The<br>Darkness And -",
-                            data: {"width":"120","height":"57","img":"jn.12"},
-                            children: []
-                        };
-
-                        var sNode103000023 = {
-                            id: "s103000023",
-                            name: "The Darkness<br>Has Not<br>Overcome It",
-                            data: {"width":"110","height":"57","img":"jn.12"},
-                            children: []
-                        };
-                    
                     var sNode10300002 = {
                         id: "s10300002",
-                        name: "Life &<br>Light:",
-                        data:{"width":"55","height":"39","img":"jn.12"},
-                        children: [sNode103000020, sNode103000021,sNode103000022,sNode103000023]            
+                        name: "And The Word<br>Was God -",
+                        data: {"width":"110","height":"39","img":"jn.9"},
+                        children: []
+                    };
+
+                    var sNode10300003 = {
+                        id: "s10300003",
+                        name: "He Was In The<br>Beginning With God",
+                        data: {"width":"155","height":"39","img":"jn.9"},
+                        children: []
                     };
                 
                 var sNode1030000 = {
                     id: "s1030000",
-                    name: "In The<br>Beginning:",
-                    data:{"width":"90","height":"39"},
-                    children:[sNode10300000,sNode10300001,sNode10300002]            
+                    name: "The Word:",
+                    data:{"width":"80","height":"23"},
+                    children:[sNode10300000, sNode10300001, sNode10300002,sNode10300003]         
                 };
 
-                    // Children of sNode1030001 (John<br>the Baptist)
-                
+                    // Children of sNode10300001 (Life &<br>Light)
+
                     var sNode10300010 = {
                         id: "s10300010",
+                        name: "All Things<br>Came To Be<br>Through Him -",
+                        data: {"width":"115","height":"57","img":"jn.10"},
+                        children: []
+                    };
+
+                    var sNode10300011 = {
+                        id: "s10300011",
+                        name: "Without Him<br>Nothing<br>Came To Be",
+                        data: {"width":"100","height":"57","img":"jn.10"},
+                        children: []
+                    };
+
+                    var sNode10300012 = {
+                        id: "s10300012",
+                        name: "What Came To Be<br>Through Him<br>Was Life -",
+                        data: {"width":"135","height":"57","img":"jn.12"},
+                        children: []
+                    };
+
+                    var sNode10300013 = {
+                        id: "s10300013",
+                        name: "And This Life Was<br>The Light Of<br>The Human Race -",
+                        data: {"width":"145","height":"57","img":"jn.12"},
+                        children: []
+                    };
+
+                    var sNode10300014 = {
+                        id: "s10300014",
+                        name: "The Light<br>Shines In The<br>Darkness And -",
+                        data: {"width":"120","height":"57","img":"jn.12"},
+                        children: []
+                    };
+
+                    var sNode10300015 = {
+                        id: "s10300015",
+                        name: "The Darkness<br>Has Not<br>Overcome It",
+                        data: {"width":"110","height":"57","img":"jn.12"},
+                        children: []
+                    };
+                var sNode1030001 = {
+                    id: "s1030001",
+                    name: "Life, Light:",
+                    data:{"width":"90","height":"23"},
+                    children:[sNode10300010,sNode10300011,sNode10300012,sNode10300013,sNode10300014,sNode10300015]         
+                };
+
+                    // Children of sNode1030002 (Testimony)
+                
+                    var sNode10300020 = {
+                        id: "s10300020",
                         name: "A Man Named<br>John Was Sent<br>From God -",
                         data:{"width":"115","height":"57","img":"preparation.4"},
                         children:[]         
                     };
                 
-                    var sNode10300011 = {
-                        id: "s10300011",
+                    var sNode10300021 = {
+                        id: "s10300021",
                         name: "He Came For<br>Testimony To Testify<br>To The Light -",
                         data:{"width":"150","height":"57","img":"preparation.4"},
                         children:[]         
                     };
                 
-                    var sNode10300012 = {
-                        id: "s10300012",
+                    var sNode10300022 = {
+                        id: "s10300022",
                         name: "So That All<br>Might Believe<br>Through Him -",
                         data:{"width":"120","height":"57","img":"preparation.4"},
                         children:[]         
                     };
                 
-                    var sNode10300013 = {
-                        id: "s10300013",
+                    var sNode10300023 = {
+                        id: "s10300023",
                         name: "He Was Not The Light<br>But Came To Testify<br>To The Light -",
                         data:{"width":"160","height":"57","img":"preparation.4"},
                         children:[]         
                     };
                 
-                    var sNode10300014 = {
-                        id: "s10300014",
+                    var sNode10300024 = {
+                        id: "s10300024",
                         name: "The True Light Which<br>Enlightens Everyone Was<br>Coming Into The world",
                         data:{"width":"185","height":"57","img":"jn.12"},
                         children:[]         
                     };
-                
-                sNode1030001 = {
-                    id: "s1030001",
-                    name: "John<br>The Baptist:",
-                    data:{"width":"95","height":"39","img":"preparation.4"},
-                    children:[sNode10300010,sNode10300011,sNode10300012,sNode10300013,sNode10300014]            
-                };
 
-                    // Children of sNode1030002 (World,Rejection<br>Acceptance,Born)
-
-                        // Children of sNode10300020 (World)
-                
-                        var sNode103000200 = {
-                            id: "s103000200",
-                            name: "He Was In<br>The World And -",
-                            data:{"width":"125","height":"39","img":"jn.9"},
-                            children:[]         
-                        }; 
-                
-                        var sNode103000201 = {
-                            id: "s103000201",
-                            name: "The World Came To Be<br>Through Him But -",
-                            data:{"width":"170","height":"39","img":"jn.9"},
-                            children:[]         
-                        };
-                
-                        var sNode103000202 = {
-                            id: "s103000202",
-                            name: "The World Did Not<br>Know Him",
-                            data:{"width":"140","height":"39","img":"jn.9"},
-                            children:[]         
-                        };     
-                
-                    var sNode10300020 = {
-                        id: "s10300020",
-                        name: "World:",
-                        data:{"width":"60","height":"23","img":"jn.9"},
-                        children:[sNode103000200,sNode103000201,sNode103000202]         
-                    }; 
-
-                        // Children of sNode10300021 (Rejection)
-
-                        var sNode103000210 = {
-                            id: "s103000210",
-                            name: "He Came To What<br>Was His Own -",
-                            data:{"width":"135","height":"39","img":"jn.9"},
-                            children:[]         
-                        };   
-                
-                        var sNode103000211 = {
-                            id: "s103000211",
-                            name: "But His Own People<br>Did Not Accept Him",
-                            data:{"width":"155","height":"39","img":"jn.9"},
-                            children:[]         
-                        };   
-                
-                    var sNode10300021 = {
-                        id: "s10300021",
-                        name: "Rejection:",
-                        data:{"width":"85","height":"23","img":"jn.9"},
-                        children:[sNode103000210,sNode103000211]         
-                    }; 
-
-                        // Children of sNode10300022 (Acceptance)
-               
-                        var sNode103000220 = {
-                            id: "s103000220",
-                            name: "He Gave Power<br>To Become<br>Children Of God -",
-                            data:{"width":"140","height":"57","img":"preparation.4"},
-                            children:[]         
-                        };  
-                
-                        var sNode103000221 = {
-                            id: "s103000221",
-                            name: "Who Believe<br>In His Name -",
-                            data:{"width":"110","height":"39","img":"preparation.4"},
-                            children:[]         
-                        };  
-
-                            // Children of sNode103000222 (Who<br>Were Born)
-                   
-                            var sNode1030002220 = {
-                                id: "s1030002220",
-                                name: "Not By Natural<br>Generation -",
-                                data:{"width":"115","height":"39","img":"acts.1"},
-                                children:[]         
-                            };  
-                    
-                            var sNode1030002221 = {
-                                id: "s1030002221",
-                                name: "Nor By<br>Human Choice -",
-                                data:{"width":"125","height":"39","img":"acts.1"},
-                                children:[]         
-                            };   
-                     
-                            var sNode1030002222 = {
-                                id: "s1030002222",
-                                name: "Nor By<br>Man's Decision -",
-                                data:{"width":"130","height":"39","img":"preparation.2"},
-                                children:[]         
-                            };  
-                   
-                            var sNode1030002223 = {
-                                id: "s1030002223",
-                                name: "But<br>Of God",
-                                data:{"width":"65","height":"39","img":"otherEvents.30"},
-                                children:[]         
-                            };           
-                
-                        var sNode103000222 = {
-                            id: "s103000222",
-                            name: "Who<br>Were Born:",
-                            data:{"width":"90","height":"39","img":"otherEvents.30"},
-                            children:[sNode1030002220,sNode1030002221,sNode1030002222,sNode1030002223]         
-                        };       
-                
-                    var sNode10300022 = {
-                        id: "s10300022",
-                        name: "But To Those Who<br>Did Accept Him:",
-                        data:{"width":"140","height":"39","img":"preparation.4"},
-                        children:[sNode103000220,sNode103000221,sNode103000222]         
-                    };
-                
                 var sNode1030002 = {
                     id: "s1030002",
-                    name: "World, Rejection,<br>Acceptance:",
-                    data:{"width":"135","height":"39"},
-                    children:[sNode10300020,sNode10300021,sNode10300022]         
+                    name: "Testimony:",
+                    data:{"width":"90","height":"23"},
+                    children:[sNode10300020,sNode10300021,sNode10300022,sNode10300023,sNode10300024]         
                 };
 
-                    // Children of sNode1030003 (The Word<br>Became Flesh)
-                
+                    // Children of sNode1030003 (The World:)
+            
                     var sNode10300030 = {
                         id: "s10300030",
-                        name: "Made His Dwelling<br>Among Us -",
-                        data:{"width":"140","height":"39","img":"nativities.5"},
-                        children:[]         
-                    };
-                
-                    var sNode10300031 = {
-                        id: "s10300031",
-                        name: "We Saw<br>His Glory -",
-                        data:{"width":"90","height":"39","img":"nativities.6"},
-                        children:[]         
-                    };
-                
-                    var sNode10300032 = {
-                        id: "s10300032",
-                        name: "The Glory As Of<br>The Father's Only Son -",
-                        data:{"width":"175","height":"39","img":"nativities.22"},
+                        name: "He Was In The World<br>And The World Came To Be<br>Through Him But -",
+                        data:{"width":"205","height":"57","img":"jn.9"},
                         children:[]         
                     }; 
-                
+            
+                    var sNode10300031 = {
+                        id: "s10300031",
+                        name: "The World Did Not Know Him.<br>He Came To What Was His Own<br>But His Own People -",
+                        data:{"width":"230","height":"57","img":"jn.9"},
+                        children:[]         
+                    };
+            
+                    var sNode10300032 = {
+                        id: "s10300032",
+                        name: "Did Not Accept Him But To Those<br>Who Did Accept Him He Gave<br>Power To Become Children Of God -",
+                        data:{"width":"260","height":"57","img":"jn.9"},
+                        children:[]         
+                    };
+
                     var sNode10300033 = {
                         id: "s10300033",
-                        name: "Full Of Grace<br>And Truth",
-                        data:{"width":"105","height":"39","img":"nativities.22"},
+                        name: "To Those Who Believe In<br>His Name Who Were Born<br>Not By Natural Generation -",
+                        data:{"width":"200","height":"57","img":"jn.9"},
                         children:[]         
-                    };      
-                
+                    };   
+            
+                    var sNode10300034 = {
+                        id: "s10300034",
+                        name: "Nor By Human Choice<br>Nor By Man's Decision<br>But Of God",
+                        data:{"width":"170","height":"57","img":"jn.9"},
+                        children:[]         
+                    };
+
                 var sNode1030003 = {
                     id: "s1030003",
-                    name: "The Word<br>Became Flesh:",
-                    data:{"width":"115","height":"39","img":"nativities.2"},
-                    children:[sNode10300030,sNode10300031,sNode10300032,sNode10300033]         
-                };
+                    name: "The World:",
+                    data:{"width":"85","height":"23"},
+                    children:[sNode10300030,sNode10300031,sNode10300032,sNode10300033,sNode10300034/*,sNode10300035,sNode10300036,sNode10300037,sNode10300038*/]         
+                };    
 
-                    // Children of sNode1030004 (John, Moses<br>And Jesus)
+                    // Children of sNode1030004 (Incarnation:)
                 
                     var sNode10300040 = {
                         id: "s10300040",
-                        name: "Testimony Came From<br>John The Baptist -",
-                        data:{"width":"170","height":"39","img":"preparation.4"},
+                        name: "The Word Became Flesh<br>And Made<br>His Dwelling Among Us -",
+                        data:{"width":"185","height":"57","img":"nativities.5"},
                         children:[]         
                     };
                 
                     var sNode10300041 = {
                         id: "s10300041",
+                        name: "We Saw His Glory<br>The Glory As Of<br>The Father's Only Son -",
+                        data:{"width":"180","height":"57","img":"nativities.6"},
+                        children:[]         
+                    };
+                
+                    var sNode10300042 = {
+                        id: "s10300042",
+                        name: "Full Of Grace<br>And Truth",
+                        data:{"width":"105","height":"39","img":"nativities.22"},
+                        children:[]         
+                    }; 
+                
+                    var sNode10300043 = {
+                        id: "s10300043",
+                        name: "Testimony Came From<br>John The Baptist -",
+                        data:{"width":"170","height":"39","img":"preparation.4"},
+                        children:[]         
+                    };
+                
+                    var sNode10300044 = {
+                        id: "s10300044",
                         name: "The Law Was Given<br>Through Moses -",
                         data:{"width":"150","height":"39","img":"jn.11"},
                         children:[]         
                     }; 
                 
-                    var sNode10300042 = {
-                        id: "s10300042",
+                    var sNode10300045 = {
+                        id: "s10300045",
                         name: "Grace & Truth Came<br>Through Jesus Christ",
                         data:{"width":"165","height":"39","img":"passion.35"},
                         children:[]         
-                    };   
-                
+                    };
+
                 var sNode1030004 = {
                     id: "s1030004",
-                    name: "John, Moses<br>And Jesus:",
-                    data:{"width":"100","height":"39"},
-                    children:[sNode10300040,sNode10300041,sNode10300042]         
+                    name: "Incarnation:",
+                    data:{"width":"95","height":"23"},
+                    children:[sNode10300040,sNode10300041,sNode10300042,sNode10300043,sNode10300044,sNode10300045]         
                 };
             
             var sNode103000 = {

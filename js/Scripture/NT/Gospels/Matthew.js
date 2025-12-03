@@ -462,19 +462,65 @@
                 data: {"width":"70","height":"39","img":"mt.4"},
                 children:[sNode1000230,sNode1000231]         
             };
+        
+                // Children of sNode100024 (Herod:)
+
+                var sNode1000240 = {
+                    id: "s1000240",
+                    name: "Called<br>The Maji:",
+                    data: {"width":"75","height":"39","img":"mt.4"},
+                    children:[]         
+                };
+
+                var sNode1000241 = {
+                    id: "s1000241",
+                    name: "Sent them<br>To Bethlehem:",
+                    data: {"width":"115","height":"39","img":"mt.4"},
+                    children:[]         
+                };
 
             var sNode100024 = {
                 id: "s100024",
                 name: "Herod:",
                 data: {"width":"65","height":"23","img":"mt.4"},
-                children:[]         
+                children:[sNode1000240,sNode1000241]         
             };
+        
+                // Children of sNode100025 (Maji:)
+
+                var sNode1000250 = {
+                    id: "s1000250",
+                    name: "The Star:",
+                    data: {"width":"75","height":"23","img":"mt.4"},
+                    children:[]         
+                };
+
+                var sNode1000251 = {
+                    id: "s1000251",
+                    name: "Prostrated Themselves<br>Did Him Homage:",
+                    data: {"width":"165","height":"39","img":"mt.4"},
+                    children:[]         
+                };
+
+                var sNode1000252 = {
+                    id: "s1000252",
+                    name: "Offered Him Gold,<br>Frankincense And Myrrh:",
+                    data: {"width":"190","height":"39","img":"mt.4"},
+                    children:[]         
+                };
+
+                var sNode1000253 = {
+                    id: "s1000253",
+                    name: "They Departed<br>By Another Way:",
+                    data: {"width":"130","height":"39","img":"mt.4"},
+                    children:[]         
+                };
 
             var sNode100025 = {
                 id: "s100025",
                 name: "Maji:",
                 data: {"width":"50","height":"23","img":"mt.4"},
-                children:[]         
+                children:[sNode1000250,sNode1000251,sNode1000252,sNode1000253]         
             };
 
         var sNode10002 = {
@@ -483,27 +529,160 @@
             data: {"width":"75","height":"39","img":"mt.4"},
             children:[sNode100020,sNode100021,sNode100022,sNode100023,sNode100024,sNode100025]         
         };
+        
+                // Children of sNode10003 (Flight<br>To Egypt:)
+
+                var sNode100030 = {
+                    id: "s100030",
+                    name: "Angel:<br>\"Flee To Egypt\"",
+                    data: {"width":"120","height":"39","img":"mt.4"},
+                    children:[]         
+                };
+
+                var sNode100031 = {
+                    id: "s100031",
+                    name: "Joseph, Child & Mother<br>Departed For Egypt",
+                    data: {"width":"180","height":"39","img":"mt.4"},
+                    children:[]         
+                };
+
+                var sNode100032 = {
+                    id: "s100032",
+                    name: "Remained There Until<br>Death Of Herod",
+                    data: {"width":"170","height":"39","img":"mt.4"},
+                    children:[]         
+                };
+
+                var sNode100033 = {
+                    id: "s100033",
+                    name: "Prophet: \"Out Of Egypt<br>I Called My Son",
+                    data: {"width":"180","height":"39","img":"mt.4"},
+                    children:[]         
+                };
 
         var sNode10003 = {
             id: "s10003",
             name: "Flight<br>To Egypt:",
             data: {"width":"80","height":"39","img": "mt.5"},
-            children:[]         
+            children:[sNode100030,sNode100031,sNode100032,sNode100033]         
         };
+        
+                // Children of sNode10004 (Massacre<br>Of The Infants:)
+        
+                    // Children of sNode100040 (Herod Ordered:)
+
+                    var sNode1000400 = {
+                        id: "s1000400",
+                        name: "Massacre All Boys -",
+                        data: {"width":"155","height":"23","img":"mt.4"},
+                        children:[]         
+                    };
+
+                    var sNode1000401 = {
+                        id: "s1000401",
+                        name: "Two Years And Under",
+                        data: {"width":"160","height":"23","img":"mt.4"},
+                        children:[]         
+                    };
+
+                var sNode100040 = {
+                    id: "s100040",
+                    name: "Herod Ordered:",
+                    data: {"width":"120","height":"23","img":"mt.4"},
+                    children:[sNode1000400,sNode1000401]         
+                };
+        
+                    // Children of sNode100041 (Herod Ordered:)
+
+                    var sNode1000410 = {
+                        id: "s1000410",
+                        name: "\"A Voice Was Heard In Ramah,<br>Sobbing And Loud Lamentation -",
+                        data: {"width":"245","height":"39","img":"mt.4"},
+                        children:[]         
+                    };
+
+                    var sNode1000411 = {
+                        id: "s1000411",
+                        name: "Rachel Weeping For Her Children,<br>She Would Not Be Consoled,<br>Since They Were No More.\"",
+                        data: {"width":"250","height":"57","img":"mt.4"},
+                        children:[]         
+                    };
+
+                var sNode100041 = {
+                    id: "s100041",
+                    name: "Jeremiah:",
+                    data: {"width":"80","height":"23","img":"mt.4"},
+                    children:[sNode1000410,sNode1000411]         
+                };
         
         var sNode10004 = {
             id: "s10004",
             name: "Massacre<br>Of The Infants:",
             data: {"width":"120","height":"39","img":"mt.6"},
-            children:[]         
+            children:[sNode100040,sNode100041]         
         };
+        
+                // Children of sNode10005 (Return<br>From Egypt:)
+        
+                    // Children of sNode100050 (Angel To Joseph:)
+
+                    var sNode1000500 = {
+                        id: "s1000500",
+                        name: "Take Child & Mother<br>To Land Of Israel",
+                        data: {"width":"155","height":"39","img":"mt.4"},
+                        children:[]         
+                    };
+
+                    var sNode1000501 = {
+                        id: "s1000501",
+                        name: "Those Who Sought<br>The Child's Life<br>Are Dead",
+                        data: {"width":"145","height":"57","img":"mt.4"},
+                        children:[]         
+                    };
+
+                var sNode100050 = {
+                    id: "s100050",
+                    name: "Angel To Joseph:",
+                    data: {"width":"130","height":"23","img":"mt.4"},
+                    children:[sNode1000500,sNode1000501]         
+                };
+        
+                    // Children of sNode100051 (Joseph:)
+
+                    var sNode1000510 = {
+                        id: "s1000510",
+                        name: "Heard Archelaus<br>Was Ruling Over Judah",
+                        data: {"width":"175","height":"39","img":"mt.4"},
+                        children:[]         
+                    };
+
+                    var sNode1000511 = {
+                        id: "s1000511",
+                        name: "They Departed For<br>Galilee",
+                        data: {"width":"145","height":"39","img":"mt.4"},
+                        children:[]         
+                    };
+
+                    var sNode1000512 = {
+                        id: "s1000512",
+                        name: "Prophet: \"He Shall<br>Be Called A Nazorean\"",
+                        data: {"width":"175","height":"39","img":"mt.4"},
+                        children:[]         
+                    };
+
+                var sNode100051 = {
+                    id: "s100051",
+                    name: "Joseph:",
+                    data: {"width":"70","height":"23","img":"mt.4"},
+                    children:[sNode1000510,sNode1000511,sNode1000512]         
+                };
     
 
         var sNode10005 = {
             id: "s10005",
             name: "Return<br>From Egypt:",
-            data: {"width":"95","height":"39","img": "mt.7"},
-            children:[]         
+            data: {"width":"100","height":"39","img": "mt.7"},
+            children:[sNode100050,sNode100051]         
         };
 
         

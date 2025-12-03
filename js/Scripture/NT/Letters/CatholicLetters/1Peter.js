@@ -549,21 +549,21 @@
             id: "s13110",
             name: "Blessing:",
             data:{"width":"75","height":"23"},
-            children:[sNode131100,sNode131101]          
+            children:[/*sNode131100,sNode131101*/]          
         };
         
         var sNode13111 = {
             id: "s13111",
             name: "Blessing:",
             data:{"width":"75","height":"23"},
-            children:[sNode131100,sNode131101]          
+            children:[/*sNode131100,sNode131101*/]          
         };
                 
     var sNode1311 = {
         id: "s1311",
         name: "Baptism:",
         data:{"width":"75","height":"23"},
-        children:[sNode13110,sNode13111,sNode13112,sNode13113,sNode13114]           
+        children:[sNode13110,sNode13111/*,sNode13112,sNode13113,sNode13114*/]           
     };
         
         // Children of sNode1312 (Christian<br>______:)
@@ -688,5 +688,5 @@ var sNode131 = {
     id: "s131",
     name: "1st Peter:",
     data:{"width":"80","height": "23"},
-    children:[sNode1310,sNode1311,sNode1312,sNode1313,sNode1314]            
-};
+    children:[sNode1310,sNode1311,sNode1312,sNode1313,sNode1314]  
+};          
