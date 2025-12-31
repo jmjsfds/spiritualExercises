@@ -916,7 +916,8 @@ var VideoData = {
 			'Speak:  Ben Walther & Andrea Thomas<br>https://www.thevigilproject.com/blog/devotions/ordinarium ',
 			'Amazing Grace<br>Ayako Ishikawa', 
 			'What Wondrous Love Is This<br>St. Olaf Choir',  /* OK */
-			'Praise To The Lord<br>St. Olaf Choir' 
+			'Praise To The Lord<br>St. Olaf Choir',
+			'Can\'t Help Falling in Love<br>Philharmonic Version By Orchestrax<br>Elvis Presley'
 		]
 	},
 
@@ -1422,5 +1423,6 @@ var PlayerControl = {
 	},
 }     
 */
+
 
 
