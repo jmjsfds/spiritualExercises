@@ -872,6 +872,7 @@ var VideoData = {
 			{'videoId': 'l6q7shFb8zs','startSeconds': 24, 'endSeconds': 259}, 
 			{'videoId':'DsVnvN3EVxY','endSeconds':193},
 			{'videoId':'9ysQZtKhaDE','startSeconds': 15, 'endSeconds': 114},
+			{'videoId':'uvdXdUtI6Rg','startSeconds': 04, 'endSeconds': 225}
 		],
 
 		names: [
@@ -999,7 +1000,8 @@ var VideoData = {
 			'fB3Fo6yG2n0',
 			'u90wTaoDjhI',  /* OK */
 			'SyXafdQogEo',
-			's9EPJBup-YU' 
+			's9EPJBup-YU',
+			'vg0ASfs523k'
 		],
 
 		names: [
@@ -1036,7 +1038,8 @@ var VideoData = {
 			'O Holy Night<br>David Lanz and Kristin Amarie',
 			'Silent Nigt<br>St. Olaf Choir',  /* OK */ 
 			'Magnificat, Douay, Latin, English<br>sung by the Daughters of Mary',
-			'Go Tell It on the Mountain<br>First-Plymouth Church<br>Lincoln Nebraska-Videos'  /* OK */
+			'Go Tell It on the Mountain<br>First-Plymouth Church<br>Lincoln Nebraska-Videos',  /* OK */
+			'O Come, O Come, Emmanuel<br>Joslin - Christmas Symphony Orchestra'
 		]
 	},
 
@@ -1419,4 +1422,5 @@ var PlayerControl = {
 	},
 }     
 */
+
 
