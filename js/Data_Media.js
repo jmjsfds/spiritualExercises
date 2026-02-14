@@ -1050,6 +1050,7 @@ var VideoData = {
 			'K_WOFqap0oM',
 			'ZI1Gst7pEqc',
 			'Bsc-T5edJrU',
+			'_H_kgDXcKIw',
 			'dXLwj-AaJqk',
 			'VfzusJRSwpE',
 			'vfIdWDJbPuY',
@@ -1075,6 +1076,7 @@ var VideoData = {
 			'Come Holy Spirit<br>Tony Yu',
 			'Prayer of St. Francis<br>Angelina',
 			'Yahweh, You Are Near MV<br>mhcaillesrn',
+			'Be not afraid I go before you always lyrics<br>St Laurence\'s Church Chorley',
 			'O Sacred Head, Surrounded<br>OCP Session Choir - Topic<br>Glory & Praise: Third Edition, Vol. 9<br>℗ 2016 OCP. All rights reserved.',
 			'Save Us, O Lord<br>Bob Dufford Glory & Praise: Third Edition, Vol. 7<br>℗ 2016 OCP. All rights reserved',
 			'Jesus, remember me<br>Taizé - Topic',
@@ -1429,6 +1431,7 @@ var PlayerControl = {
 	},
 }     
 */
+
 
 
 
