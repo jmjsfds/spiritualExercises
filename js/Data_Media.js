@@ -1049,6 +1049,7 @@ var VideoData = {
 			'KXfe_0mDv34',
 			'K_WOFqap0oM',
 			'ZI1Gst7pEqc',
+			'Bsc-T5edJrU',
 			'dXLwj-AaJqk',
 			'VfzusJRSwpE',
 			'vfIdWDJbPuY',
@@ -1073,6 +1074,7 @@ var VideoData = {
 			'Turn to Me · John Foley<br>Glory & Praise: Third Edition, Vol. 9<br>℗ 2016 OCP. All rights reserved. All selections BMI.',
 			'Come Holy Spirit<br>Tony Yu',
 			'Prayer of St. Francis<br>Angelina',
+			'Yahweh, You Are Near MV<vr>mhcaillesrn',
 			'O Sacred Head, Surrounded<br>OCP Session Choir - Topic<br>Glory & Praise: Third Edition, Vol. 9<br>℗ 2016 OCP. All rights reserved.',
 			'Save Us, O Lord<br>Bob Dufford Glory & Praise: Third Edition, Vol. 7<br>℗ 2016 OCP. All rights reserved',
 			'Jesus, remember me<br>Taizé - Topic',
@@ -1427,6 +1429,7 @@ var PlayerControl = {
 	},
 }     
 */
+
 
 
 
