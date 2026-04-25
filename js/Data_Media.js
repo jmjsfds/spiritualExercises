@@ -832,6 +832,7 @@ var VideoData = {
 	ordinary: {
 		ids: [
 			'CDljPsRIryo',
+			'Xa6eceuyYj8',
 			{'videoId':'_e1QRtxUF50', 'endSeconds': 290},
 			'kaIDkoFXdUk',
 			'alJOStsdw3s',
@@ -877,6 +878,7 @@ var VideoData = {
 
 		names: [
 			'We Are Called',
+			'Pange Lingua<br>ENCHANTING',
 			'Behold The Lamb<br>Passion, Kristian Stanfill',
 			'O God Beyond All Praising<br>Catholic Music Initiative<br>Dave Moore, Lauren Moore',
 			'Agnus Dei<br>Michael W. Smith<br>with Nashville Recording Orchestra & Choir',
