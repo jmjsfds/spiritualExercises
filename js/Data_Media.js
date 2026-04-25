@@ -970,6 +970,7 @@ var VideoData = {
 		ids: [
 			/*'CO99NN55f8g', Not Available */
 			'ReJAU2mXm8w',
+			'vx-ffIBm_CU',
 			'mikjcrApXkw',
 			'PrLoWt2tfqg',
 			{'videoId':'lEYoJKePxHc', 'endSeconds': 159}, /* https://www.cantocatolico.org/  */
@@ -1008,6 +1009,7 @@ var VideoData = {
 		names: [
 			/*'What Child Is This Meditation<br>Catholic Hymns and Chants<br>https://thefullnessoftruthapostolate.wordpress.com/', Not available    */ 
 			'O Holy Night<br>Pentatonix<br>(Official Video)',
+			'What Child Is This<br>Clamavi De Profundis',
 			'O Holy Night<br>Joslin - Christmas',
 			'Angels From The Realms Of Glory<br>The Piano Guys',
 			'Adeste FidElements: Vayamos Cristianos (en español)<br>Villancico Música navidad | Música navideña<br>by Música Católica  https://www.cantocatolico.org/', /* OK */  
