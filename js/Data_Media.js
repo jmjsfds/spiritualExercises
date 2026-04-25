@@ -1049,6 +1049,7 @@ var VideoData = {
 	lent: {
 		ids:[
 			'KXfe_0mDv34',
+			'qo4UIgRr_nE',
 			'K_WOFqap0oM',
 			'ZI1Gst7pEqc',
 			'Bsc-T5edJrU',
@@ -1075,6 +1076,7 @@ var VideoData = {
 
 		names:[
 			'Turn to Me · John Foley<br>Glory & Praise: Third Edition, Vol. 9<br>℗ 2016 OCP. All rights reserved. All selections BMI.',
+			'O Sacred Head Surrounded<br>Clamavi De Profundis',
 			'Come Holy Spirit<br>Tony Yu',
 			'Prayer of St. Francis<br>Angelina',
 			'Yahweh, You Are Near MV<br>mhcaillesrn',
