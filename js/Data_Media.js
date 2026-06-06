@@ -833,6 +833,7 @@ var VideoData = {
 		ids: [
 			'CDljPsRIryo',
 			'Xa6eceuyYj8',
+			'K_WOFqap0oM',
 			'qlnC-SP4MeQ',
 			{'videoId':'_e1QRtxUF50', 'endSeconds': 290},
 			'kaIDkoFXdUk',
@@ -880,6 +881,7 @@ var VideoData = {
 		names: [
 			'We Are Called',
 			'Pange Lingua<br>ENCHANTING',
+			'Come Holy Spirit<br>Tony Yu',
 			'Salve Regina<br>ENCHANTING',
 			'Behold The Lamb<br>Passion, Kristian Stanfill',
 			'O God Beyond All Praising<br>Catholic Music Initiative<br>Dave Moore, Lauren Moore',
