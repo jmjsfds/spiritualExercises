@@ -923,7 +923,7 @@ var VideoData = {
 			'Adoro te devote<br>by Música Católica<br>https://www.cantocatolico.org/ ', 
 			'Praise God, from whom all blessing flow<br>Cross Culture Thailand VBS,<br>Group Publishing, Life Tree Kids', 
 			'Immaculate Mary<br>Prima Luce<br>https://www.primalucemusic.com/', 
-			'Hosea (Come Back to Me)<br>Sunday 7pm Choir<br>Catholic & Christian Choral Music,
+			'Hosea (Come Back to Me)<br>Sunday 7pm Choir<br>Catholic & Christian Choral Music',
 			'Holy, Holy, Holy<br>Mormon Tabernacle Choir', 
 			'Speak:  Ben Walther & Andrea Thomas<br>https://www.thevigilproject.com/blog/devotions/ordinarium ',
 			'Amazing Grace<br>Ayako Ishikawa', 
