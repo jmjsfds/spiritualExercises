@@ -831,6 +831,8 @@ var VideoData = {
 
 	ordinary: {
 		ids: [
+			'EcxRvfTC2D8',
+			'FB0TWvag_Ic',
 			'CDljPsRIryo',
 			'Xa6eceuyYj8',
 			'K_WOFqap0oM',
@@ -870,6 +872,7 @@ var VideoData = {
 			{'videoId':'ON9srmxr1LQ','endSeconds': 343}, /* https://www.cantocatolico.org/  */
 			{'videoId':'LjqcnFjVF6k','startSeconds':6,'endSeconds':178},
 			'Ul7CLPd14JQ',  /* Immaculate Mary:  */
+			'BxP37dNEJQo',
 			{'videoId':'2qCmtUhiKcA','endSeconds':236},
 			{'videoId':'QbmwhjsfR48','startSeconds':10,'endSeconds':264},  /* Speak:Ben Walther */
 			{'videoId': 'l6q7shFb8zs','startSeconds': 24, 'endSeconds': 259}, 
@@ -879,6 +882,8 @@ var VideoData = {
 		],
 
 		names: [
+			'Come To The Water<br>John Foley, Sunday 7pm Choir<br>Catholic & Christian Choral Music',
+			'Hosea - Come Back to me<br>John Michael Talbot',
 			'We Are Called',
 			'Pange Lingua<br>ENCHANTING',
 			'Come Holy Spirit<br>Tony Yu',
@@ -918,6 +923,7 @@ var VideoData = {
 			'Adoro te devote<br>by Música Católica<br>https://www.cantocatolico.org/ ', /* OK */
 			'Praise God, from whom all blessing flow<br>Cross Culture Thailand VBS,<br>Group Publishing, Life Tree Kids', /* OK */
 			'Immaculate Mary<br>Prima Luce<br>https://www.primalucemusic.com/', /* OK from their website */
+			'Hosea (Come Back to Me)<br>Sunday 7pm Choir<br>Catholic & Christian Choral Music,
 			'Holy, Holy, Holy<br>Mormon Tabernacle Choir', 
 			'Speak:  Ben Walther & Andrea Thomas<br>https://www.thevigilproject.com/blog/devotions/ordinarium ',
 			'Amazing Grace<br>Ayako Ishikawa', 
