@@ -831,9 +831,9 @@ var VideoData = {
 
 	ordinary: {
 		ids: [
+			'CDljPsRIryo',
 			'EcxRvfTC2D8',
 			'FB0TWvag_Ic',
-			'CDljPsRIryo',
 			'Xa6eceuyYj8',
 			'K_WOFqap0oM',
 			'qlnC-SP4MeQ',
@@ -882,9 +882,9 @@ var VideoData = {
 		],
 
 		names: [
+			'We Are Called',
 			'Come To The Water<br>John Foley, Sunday 7pm Choir<br>Catholic & Christian Choral Music',
 			'Hosea - Come Back to me<br>John Michael Talbot',
-			'We Are Called',
 			'Pange Lingua<br>ENCHANTING',
 			'Come Holy Spirit<br>Tony Yu',
 			'Salve Regina<br>ENCHANTING',
