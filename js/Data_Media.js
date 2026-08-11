@@ -833,9 +833,9 @@ var VideoData = {
 		ids: [
 			'CDljPsRIryo',
 			'Xa6eceuyYj8',
-			'EcxRvfTC2D8'//,
-			/*'FB0TWvag_Ic',
-			'K_WOFqap0oM',
+			'EcxRvfTC2D8',
+			'AFVhUOH1vXI'//,
+			/*'K_WOFqap0oM',
 			'qlnC-SP4MeQ',
 			{'videoId':'_e1QRtxUF50', 'endSeconds': 290},
 			'kaIDkoFXdUk',
@@ -883,10 +883,10 @@ var VideoData = {
 
 		names: [
 			'We Are Called',
-			'Pange Lingua<br>ENCHANTING'//,
-			/*'Come To The Water<br>John Foley, Sunday 7pm Choir<br>Catholic & Christian Choral Music',
-			'Hosea - Come Back to me<br>John Michael Talbot',
-			'Come Holy Spirit<br>Tony Yu',
+			'Pange Lingua<br>ENCHANTING',
+			'Come To The Water<br>John Foley, Sunday 7pm Choir<br>Catholic & Christian Choral Music',
+			'Hosea - Come Back to me<br>John Michael Talbot'
+			/*'Come Holy Spirit<br>Tony Yu',
 			'Salve Regina<br>ENCHANTING',
 			'Behold The Lamb<br>Passion, Kristian Stanfill',
 			'O God Beyond All Praising<br>Catholic Music Initiative<br>Dave Moore, Lauren Moore',
