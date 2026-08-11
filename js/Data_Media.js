@@ -834,8 +834,8 @@ var VideoData = {
 			'CDljPsRIryo',
 			'Xa6eceuyYj8',
 			'EcxRvfTC2D8',
-			'AFVhUOH1vXI'//,
-			/*'K_WOFqap0oM',
+			'AFVhUOH1vXI',
+			'K_WOFqap0oM',
 			'qlnC-SP4MeQ',
 			{'videoId':'_e1QRtxUF50', 'endSeconds': 290},
 			'kaIDkoFXdUk',
@@ -878,15 +878,15 @@ var VideoData = {
 			{'videoId': 'l6q7shFb8zs','startSeconds': 24, 'endSeconds': 259}, 
 			{'videoId':'DsVnvN3EVxY','endSeconds':193},
 			{'videoId':'9ysQZtKhaDE','startSeconds': 15, 'endSeconds': 114},
-			{'videoId':'uvdXdUtI6Rg','startSeconds': 04, 'endSeconds': 225}*/
+			{'videoId':'uvdXdUtI6Rg','startSeconds': 04, 'endSeconds': 225}
 		],
 
 		names: [
 			'We Are Called',
 			'Pange Lingua<br>ENCHANTING',
 			'Come To The Water<br>John Foley, Sunday 7pm Choir<br>Catholic & Christian Choral Music',
-			'Hosea - Come Back to me<br>John Michael Talbot'
-			/*'Come Holy Spirit<br>Tony Yu',
+			'Hosea - Come Back to me<br>John Michael Talbot',
+			'Come Holy Spirit<br>Tony Yu',
 			'Salve Regina<br>ENCHANTING',
 			'Behold The Lamb<br>Passion, Kristian Stanfill',
 			'O God Beyond All Praising<br>Catholic Music Initiative<br>Dave Moore, Lauren Moore',
@@ -929,7 +929,7 @@ var VideoData = {
 			'Amazing Grace<br>Ayako Ishikawa', 
 			'What Wondrous Love Is This<br>St. Olaf Choir',  
 			'Praise To The Lord<br>St. Olaf Choir',
-			'Can\'t Help Falling in Love<br>Philharmonic Version By Orchestrax<br>Elvis Presley'*/
+			'Can\'t Help Falling in Love<br>Philharmonic Version By Orchestrax<br>Elvis Presley'
 		]
 	},
 
