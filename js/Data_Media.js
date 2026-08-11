@@ -832,9 +832,9 @@ var VideoData = {
 	ordinary: {
 		ids: [
 			'CDljPsRIryo',
-			'Xa6eceuyYj8'//,
-			/*'EcxRvfTC2D8',
-			'FB0TWvag_Ic',
+			'Xa6eceuyYj8',
+			'EcxRvfTC2D8'//,
+			/*'FB0TWvag_Ic',
 			'K_WOFqap0oM',
 			'qlnC-SP4MeQ',
 			{'videoId':'_e1QRtxUF50', 'endSeconds': 290},
