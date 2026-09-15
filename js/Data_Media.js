@@ -832,6 +832,11 @@ var VideoData = {
 	ordinary: {
 		ids: [
 			'CDljPsRIryo',
+			'Xa6eceuyYj8',
+			'EcxRvfTC2D8',
+			'AFVhUOH1vXI',
+			'K_WOFqap0oM',
+			'qlnC-SP4MeQ',
 			{'videoId':'_e1QRtxUF50', 'endSeconds': 290},
 			'kaIDkoFXdUk',
 			'alJOStsdw3s',
@@ -863,19 +868,26 @@ var VideoData = {
 			'ihJAJA4ibEs', 
 			'4V-AQbKyg48',
 			'M_v70rhDwfA',
-			{'videoId':'iEn8Ag5AH2M', 'startSeconds': 44, 'endSeconds': 383 }, /* https://www.cantocatolico.org/  */
-			{'videoId':'ON9srmxr1LQ','endSeconds': 343}, /* https://www.cantocatolico.org/  */
+			{'videoId':'iEn8Ag5AH2M', 'startSeconds': 44, 'endSeconds': 383 }, 
+			{'videoId':'ON9srmxr1LQ','endSeconds': 343}, 
 			{'videoId':'LjqcnFjVF6k','startSeconds':6,'endSeconds':178},
-			'Ul7CLPd14JQ',  /* Immaculate Mary:  */
+			'Ul7CLPd14JQ',  
+			'BxP37dNEJQo',
 			{'videoId':'2qCmtUhiKcA','endSeconds':236},
-			{'videoId':'QbmwhjsfR48','startSeconds':10,'endSeconds':264},  /* Speak:Ben Walther */
+			{'videoId':'QbmwhjsfR48','startSeconds':10,'endSeconds':264}, 
 			{'videoId': 'l6q7shFb8zs','startSeconds': 24, 'endSeconds': 259}, 
 			{'videoId':'DsVnvN3EVxY','endSeconds':193},
 			{'videoId':'9ysQZtKhaDE','startSeconds': 15, 'endSeconds': 114},
+			{'videoId':'uvdXdUtI6Rg','startSeconds': 04, 'endSeconds': 225}
 		],
 
 		names: [
 			'We Are Called',
+			'Pange Lingua<br>ENCHANTING',
+			'Come To The Water<br>John Foley, Sunday 7pm Choir<br>Catholic & Christian Choral Music',
+			'Hosea - Come Back to me<br>John Michael Talbot',
+			'Come Holy Spirit<br>Tony Yu',
+			'Salve Regina<br>ENCHANTING',
 			'Behold The Lamb<br>Passion, Kristian Stanfill',
 			'O God Beyond All Praising<br>Catholic Music Initiative<br>Dave Moore, Lauren Moore',
 			'Agnus Dei<br>Michael W. Smith<br>with Nashville Recording Orchestra & Choir',
@@ -903,19 +915,21 @@ var VideoData = {
 			'How Can I Keep from Singing:<br>NYC Virtual Choir and Orchestra',
 			'All Hail, Adored Trinity:<br>OCD Session Choir - Topic ',
 			'Miserere mei, Deus:<br>Allegri - Tenebrae Choir<br>www.tenebrae-choir.com',
-			'In Christ Alone<br>Celtic Worship<br>http://celticworship.co.uk', /* OK */
+			'In Christ Alone<br>Celtic Worship<br>http://celticworship.co.uk', 
 			'BE THOU MY VISION:<br>NathanPachecoMusic',
 			'O God Beyond All Praising<br>Villanova Pastoral Musicians: Villanova Pastoral Musicians<br>Produced by Andrew Kurzweil',
 			'Praise the Lord! Ye Heavens, Adore Him:<br>The Chancel Choir of First United Methodist Church, Dallas', 
 			'Pescadore de Hombres:<br> ?????',
-			'Adoro te devote<br>by Música Católica<br>https://www.cantocatolico.org/ ', /* OK */
-			'Praise God, from whom all blessing flow<br>Cross Culture Thailand VBS,<br>Group Publishing, Life Tree Kids', /* OK */
-			'Immaculate Mary<br>Prima Luce<br>https://www.primalucemusic.com/', /* OK from their website */
+			'Adoro te devote<br>by Música Católica<br>https://www.cantocatolico.org/ ', 
+			'Praise God, from whom all blessing flow<br>Cross Culture Thailand VBS,<br>Group Publishing, Life Tree Kids', 
+			'Immaculate Mary<br>Prima Luce<br>https://www.primalucemusic.com/', 
+			'Hosea (Come Back to Me)<br>Sunday 7pm Choir<br>Catholic & Christian Choral Music',
 			'Holy, Holy, Holy<br>Mormon Tabernacle Choir', 
 			'Speak:  Ben Walther & Andrea Thomas<br>https://www.thevigilproject.com/blog/devotions/ordinarium ',
 			'Amazing Grace<br>Ayako Ishikawa', 
-			'What Wondrous Love Is This<br>St. Olaf Choir',  /* OK */
-			'Praise To The Lord<br>St. Olaf Choir' 
+			'What Wondrous Love Is This<br>St. Olaf Choir',  
+			'Praise To The Lord<br>St. Olaf Choir',
+			'Can\'t Help Falling in Love<br>Philharmonic Version By Orchestrax<br>Elvis Presley'
 		]
 	},
 
@@ -968,6 +982,7 @@ var VideoData = {
 		ids: [
 			/*'CO99NN55f8g', Not Available */
 			'ReJAU2mXm8w',
+			'vx-ffIBm_CU',
 			'mikjcrApXkw',
 			'PrLoWt2tfqg',
 			{'videoId':'lEYoJKePxHc', 'endSeconds': 159}, /* https://www.cantocatolico.org/  */
@@ -999,12 +1014,14 @@ var VideoData = {
 			'fB3Fo6yG2n0',
 			'u90wTaoDjhI',  /* OK */
 			'SyXafdQogEo',
-			's9EPJBup-YU' 
+			's9EPJBup-YU',
+			'vg0ASfs523k'
 		],
 
 		names: [
 			/*'What Child Is This Meditation<br>Catholic Hymns and Chants<br>https://thefullnessoftruthapostolate.wordpress.com/', Not available    */ 
 			'O Holy Night<br>Pentatonix<br>(Official Video)',
+			'What Child Is This<br>Clamavi De Profundis',
 			'O Holy Night<br>Joslin - Christmas',
 			'Angels From The Realms Of Glory<br>The Piano Guys',
 			'Adeste FidElements: Vayamos Cristianos (en español)<br>Villancico Música navidad | Música navideña<br>by Música Católica  https://www.cantocatolico.org/', /* OK */  
@@ -1036,13 +1053,19 @@ var VideoData = {
 			'O Holy Night<br>David Lanz and Kristin Amarie',
 			'Silent Nigt<br>St. Olaf Choir',  /* OK */ 
 			'Magnificat, Douay, Latin, English<br>sung by the Daughters of Mary',
-			'Go Tell It on the Mountain<br>First-Plymouth Church<br>Lincoln Nebraska-Videos'  /* OK */
+			'Go Tell It on the Mountain<br>First-Plymouth Church<br>Lincoln Nebraska-Videos',  /* OK */
+			'O Come, O Come, Emmanuel<br>Joslin - Christmas Symphony Orchestra'
 		]
 	},
 
 	lent: {
 		ids:[
 			'KXfe_0mDv34',
+			'qo4UIgRr_nE',
+			'K_WOFqap0oM',
+			'ZI1Gst7pEqc',
+			'Bsc-T5edJrU',
+			'_H_kgDXcKIw',
 			'dXLwj-AaJqk',
 			'VfzusJRSwpE',
 			'vfIdWDJbPuY',
@@ -1065,6 +1088,11 @@ var VideoData = {
 
 		names:[
 			'Turn to Me · John Foley<br>Glory & Praise: Third Edition, Vol. 9<br>℗ 2016 OCP. All rights reserved. All selections BMI.',
+			'O Sacred Head Surrounded<br>Clamavi De Profundis',
+			'Come Holy Spirit<br>Tony Yu',
+			'Prayer of St. Francis<br>Angelina',
+			'Yahweh, You Are Near MV<br>mhcaillesrn',
+			'Be not afraid I go before you always lyrics<br>St Laurence\'s Church Chorley',
 			'O Sacred Head, Surrounded<br>OCP Session Choir - Topic<br>Glory & Praise: Third Edition, Vol. 9<br>℗ 2016 OCP. All rights reserved.',
 			'Save Us, O Lord<br>Bob Dufford Glory & Praise: Third Edition, Vol. 7<br>℗ 2016 OCP. All rights reserved',
 			'Jesus, remember me<br>Taizé - Topic',
@@ -1089,6 +1117,7 @@ var VideoData = {
 	easter: {
 		ids:[
 			'eETRRbLLuMM',
+			'3hMlOLtUHYc',
 			'S35MFbDJLX8',
 			'dszpVNJIklM',
 			'8p03kMcjnU0',
@@ -1104,6 +1133,7 @@ var VideoData = {
 
 		names:[
 			'All Creatures Of Our God And King<br>First Dallas Choir and Orchestra',
+			'Ye Sons and Daughters<br>(O Filii et Filiae)<br>Clamavi De Profundis',
 			'Alleluia! Alleluia! Let the Holy Anthem Rise · OCP Choir · Traditional<br>Journeysongs Third Edition: Volume 13<br>℗ 2012 OCP. All rights reserved. All selections BMI.',
 			'An Easter Hallelujah<br>Cassandra Star & her sister Callahan',
 			'Alleluia! Alleluia! Let the Holy Anthem Rise:<br>for organ and brass<br>www.wmglennosborne.com or www.audubonparkmusic.com',  /* OK */
@@ -1419,4 +1449,12 @@ var PlayerControl = {
 	},
 }     
 */
+
+
+
+
+
+
+
+
 

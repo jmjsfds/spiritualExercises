@@ -308,6 +308,16 @@
             </section>     -->
 
             <section class="audio-video-container">
+    
+                <section class="video-container"> <!-- z-50 deleted & z-neg added on Jan 30 2024 z-neg deleted on June 11 2025 -->
+                    <div class="player-container">
+                        <div id="player"></div>
+                    </div>
+
+                    <!--<div class="player-cover"> 
+                    </div>-->
+                </section> 
+                
                 <section class="controls-season-container">
                     <section class="controls-container">
 
@@ -325,10 +335,10 @@
                     </section> 
 
                     <section class="season-container">
-                        <div class="season-label-container z-70">
+                        <div class="season-label-container" style="z-index: 200;">
                             <label id="season-id" class="season-button" onclick="SeasonButtonHandler.showHideSeasonList()" >Season</label> 
                         </div>
-                        <ul id="season-options-id" class="season-options hide-season z-60" onmouseleave="SeasonButtonHandler.leave()">
+                        <ul id="season-options-id" class="season-options hide-season z-90" style="z-index: 190;" onmouseleave="SeasonButtonHandler.leave()">
                             <li id="ordinary-id" class="options-item selected-season" onclick="SeasonButtonHandler.changeSeason(event)">Ordinary Time</li> 
                             <li id="advent-id" class="options-item" onclick="SeasonButtonHandler.changeSeason(event)">Advent</li>
                             <li id="christmas-id" class="options-item" onclick="SeasonButtonHandler.changeSeason(event)">Christmas</li>
@@ -339,15 +349,7 @@
 
                 </section> 
 
-                     
-                <section class="video-container"> <!-- z-50 deleted & z-neg added on Jan 30 2024 z-neg deleted on June 11 2025 -->
-                    <div class="player-container">
-                        <div id="player"></div>
-                    </div>
-
-                    <!--<div class="player-cover"> 
-                    </div>-->
-                </section> 
+                 
 
 
                 <section class="page-absolute title-container z-70">
@@ -399,3 +401,6 @@
         
     </body>
 </html>
+
+
+
