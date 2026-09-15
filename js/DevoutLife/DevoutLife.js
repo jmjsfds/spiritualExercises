@@ -1690,12 +1690,35 @@
                     data:{"width":"95","height":"23"},
                     children:[dNode02300,dNode02302]         
                 };
+        
+                    // Children of dNode0231 (Considerations)
+            
+                    var dNode02310 = {
+                        id: "d02310",
+                        name: "How Long I've Been Sinning",
+                        data:{"width":"115","height":"23"},
+                        children:[]         
+                    };
+            
+                    var dNode02311 = {
+                        id: "d02311",
+                        name: "My Evil Tendencies",
+                        data:{"width":"115","height":"23"},
+                        children:[]         
+                    };
+            
+                    var dNode02312 = {
+                        id: "d02312",
+                        name: "My Ingratitude Towards God",
+                        data:{"width":"115","height":"23"},
+                        children:[]         
+                    };
             
                 var dNode0231 = {
                     id: "d0231",
                     name: "Considerations",
                     data:{"width":"115","height":"23"},
-                    children:[]         
+                    children:[dNode02310,dNode02311,dNode02312]         
                 };
             
                 var dNode0232 = {
