@@ -29,7 +29,7 @@
 	                id: "s0310",
 	                name: "Psalms<br>1,8,13,19,23,27,32",
 	                data:{"width": "120","height": "39"},
-                    children:[sNode03100,sNode03101,sNode03103,sNode03103,sNode03104,sNode03105,sNode03106]			
+                    children:[sNode03100,sNode03101,sNode03102,sNode03103,sNode03104,sNode03105,sNode03106]			
                 };
 
                 var sNode0311 = {

@@ -236,7 +236,7 @@
             
         var sNode03 = {
             id: "s03",
-            name: "Wisdomk<br>Books",
+            name: "Wisdom<br>Books",
             data:{"width":"75","height":"37"},
             children:[sNode030,sNode031,sNode032,sNode033,sNode034,sNode035,sNode036]
         };
